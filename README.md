@@ -1,4 +1,4 @@
-# 🧠 SmartPocket – Voice-Based Money Management for Teenagers
+# 🧠 SmartPocket – Voice-Based Financial Assistant for Teenagers
 
 SmartPocket is a web-based application that empowers teenagers to manage their pocket money using natural voice commands. It blends the power of voice AI with financial literacy, gamification, and a teen-friendly design to build smart money habits from an early age.
 
